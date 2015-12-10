@@ -4,4 +4,4 @@
 Arduino using 5 volts with 150 pixels done by Neopixel library
 
 
-<iframe width="300" height="480" src="https://www.youtube.com/embed/poXEUKpZgcI" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="480" src="https://www.youtube.com/embed/poXEUKpZgcI" frameborder="0"></iframe>
